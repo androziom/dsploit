@@ -7,7 +7,7 @@
     </string>
     <string name="toggle_button">ToggleButton</string>
     <string name="enter_redirection_details">Enter redirection details below:</string>
-    <string name="address">Addres</string>
+    <string name="address">Adres</string>
     <string name="port">Port</string>
     <string name="target">Cel</string>
     <string name="unknown">nienznay</string>
@@ -76,7 +76,7 @@
     <string name="stop_monitor">Zatrzymaj Network Monitor</string>
     <string name="start_msfrpcd">Rozpocznij MetaSploit RPCD</string>
     <string name="stop_msfrpcd">Zatrzymaj MetaSploit RPCD</string>
-    <string name="exit">Exit</string>
+    <string name="exit">Wyjście</string>
     <string name="close_confirm">To zamknie dSploit, jesteś pewien, że chcesz kontynuować ?
     </string>
     <string name="press_back">Naciśnij wstecz jeszcze raz by opuścić aplikację.</string>
@@ -85,11 +85,11 @@
     <string name="no_session_found">Nie znaleziono pliku sesji na karcie sd.</string>
     <string name="select_session_file">Wybierz plik sesji ze swojej karty sd :</string>
     <string name="select_session">Wybierz sesję</string>
-    <string name="invalid_session">Invalid session name.</string>
+    <string name="invalid_session">Niepoprawna nazwa sesji.</string>
     <string name="session_saved_to">Sesja zapisana w &#160;</string>
     <string name="save_session">Zapisz sesję</string>
     <string name="enter_session_name">Enter the name of the session file :</string>
-    <string name="new_session_started">New session started</string>
+    <string name="new_session_started">Nowa sesja rozpoczęta</string>
     <string name="warning">Warning</string>
     <string name="warning_new_session">Starting a new session would delete the current one,
         continue?
@@ -107,7 +107,7 @@
         found(maybe you have an old busybox version).
     </string>
     <string name="only_4_root">This application can run only on rooted devices.</string>
-    <string name="initializing">Initializing&#8230;</string>
+    <string name="initializing">Inicjalizowanie&#8230;</string>
     <string name="initialization_error">Initialization Error</string>
     <string name="target_alias">Target Alias</string>
     <string name="set_alias">Set an alias for this target:</string>
@@ -121,14 +121,14 @@
         <![CDATA[</b> <b><font color=\"red\">FAILED</font></b>.]]></string>
     <string name="enter_key_or_crack">Enter WiFi Key or attempt cracking:</string>
     <string name="enter_wifi_key">Enter WiFi Key:</string>
-    <string name="scanning">Scanning&#8230;</string>
-    <string name="invalid_filename">Invalid file name.</string>
+    <string name="scanning">Skanowanie&#8230;</string>
+    <string name="invalid_filename">Niepoprawna nazwa pliku.</string>
     <string name="something_went_wrong">Something went wrong, please select again a valid target.
     </string>
-    <string name="selected">Selected</string>
+    <string name="selected">Wybrane</string>
     <string name="nothing_found"><![CDATA[<small><i>Nothing Found</i></small>]]></string>
     <string name="no_open_ports">No open ports detected on current target, run the service inspector first.</string>
-    <string name="no_exploits_found">No exploits found.</string>
+    <string name="no_exploits_found">Nie znaleziono exploitów.</string>
     <string name="no_open_ports_focused_scan">No open ports found, run the port scanner before selecting a focused scan.</string>
     <string name="no_open_ports_exploitfinder">No exploits found on this target, run the ExploitFinder first.</string>
     <string name="no_exploit_started">No exploit has been started.</string>
@@ -136,7 +136,7 @@
     <string name="no_infos_on_target">No specific informations about services running on target
         machine, run the service inspector first.
     </string>
-    <string name="custom_charset">Custom Charset</string>
+    <string name="custom_charset">Własny Zestaw Znaków</string>
     <string name="enter_chars_wanted">Enter the chars you want to use in the custom charset:
     </string>
     <string name="invalid_port">Invalid port specified.</string>
@@ -147,7 +147,7 @@
         MAC address.
     </string>
     <string name="no_activities_for_url">No activities to handle this type of url.</string>
-    <string name="select_ports">Select Ports</string>
+    <string name="select_ports">Wybierz porty</string>
     <string name="enter_ports_list">Enter a comma separated list of ports:</string>
     <string name="invalid_port_">Invalid port \'</string>
     <string name="port_must_be_greater">Port must be greater than 0 and smaller than 65535.</string>
@@ -157,20 +157,20 @@
     <string name="select_target">Select a target below by clicking on a row, or long click on it to
         enter an alias.
     </string>
-    <string name="generating_keys">Generating keys&#8230;</string>
+    <string name="generating_keys">Generowanie kluczy&#8230;</string>
     <string name="no_wifi_available">No WiFi connection available, the application will just check
         for updates. #STATUS#
     </string>
     <string name="loading_changelog">Loading changelog&#8230;</string>
     <string name="something_went_wrong_changelog">
         <![CDATA[<html><body><p><b>Something went wrong while retrieving the changelog:</b></p><p><pre>{DESCRIPTION}</pre></p></body></html>]]></string>
-    <string name="cancel_dialog">Cancel</string>
-    <string name="yes">Yes</string>
-    <string name="no">No</string>
-    <string name="connect">Connect</string>
+    <string name="cancel_dialog">Anuluj</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+    <string name="connect">Połącz</string>
     <string name="crack">Crack</string>
     <string name="could_not_read_folder">Could not read folder contents.</string>
-    <string name="choose_dir">Choose&#160;</string>
+    <string name="choose_dir">Wybierz&#160;</string>
     <string name="vulnerability_finder">Vulnerability Finder</string>
     <string name="vulnerability_finder_desc">Search for known vulnerabilities for target running
         services upon National Vulnerability Database.
@@ -186,7 +186,7 @@
     <string name="packet_forger">Packet Forger</string>
     <string name="packet_forger_desc">Craft and send a custom TCP or UDP packet to the target.
     </string>
-    <string name="port_scanner">Port Scanner</string>
+    <string name="port_scanner">Skaner Portów</string>
     <string name="port_scanner_desc">Perform a SYN port scanning on target.</string>
     <string name="router_pwn">Router PWN</string>
     <string name="router_pwn_desc">Launch the http://routerpwn.com/ service to pwn your router.
@@ -210,7 +210,7 @@
     <string name="untraced_hops">untraced hops</string>
     <string name="add_username">Add username</string>
     <string name="enter_username">Enter the username you want to use:</string>
-    <string name="select_wordlist">Select Wordlist</string>
+    <string name="select_wordlist">Wybierz Słownik</string>
     <string name="error_filepath">Could not determine file path, please use a different file
         manager.
     </string>
@@ -246,7 +246,7 @@
     <string name="mitm_password_sniff_desc">Sniff passwords of many protocols such as http, ftp, imap, imaps, irc, msn, etc from the target.</string>
     <string name="mitm_session_hijack">Session Hijacker</string>
     <string name="mitm_session_hijack_desc">Listen for cookies on the network and hijack sessions.</string>
-    <string name="mitm_connection_kill">Kill Connections</string>
+    <string name="mitm_connection_kill">Ubij połączenia</string>
     <string name="mitm_connection_kill_desc">Kill connections preventing the target to reach any website or server.</string>
     <string name="mitm_connection_kill_error">Connection killer can be used only against single endpoints.</string>
     <string name="mitm_redirect">Redirect</string>
@@ -259,7 +259,7 @@
     <string name="choose_source">Choose a source:</string>
     <string name="local_images">Local Images</string>
     <string name="error_image_intent">This is weird, seems like you have no application to handle image browsing.</string>
-    <string name="image">Image</string>
+    <string name="image">Obraz</string>
     <string name="enter_image_url">Enter the url of the image :</string>
     <string name="error_image_url">Invalid image url.</string>
     <string name="mitm_video_replace">Replace Videos</string>
@@ -270,7 +270,7 @@
     <string name="mitm_script_injection">Script Injection</string>
     <string name="mitm_script_injection_desc">Inject a javascript in every visited webpage.</string>
     <string name="choose_method">Choose a method:</string>
-    <string name="local_files">Local files</string>
+    <string name="local_files">Pliki lokalne</string>
     <string name="custom_code">Custom Code</string>
     <string name="error_file_intent">Seems like you have no file manager capable of browsing files, please install one.</string>
     <string name="enter_js_code">Enter the js code to inject :</string>
@@ -287,35 +287,35 @@
     <string name="error_mitm_https_redirector">Unable to create the HTTPS redirector, please check your connection and port availability.</string>
     <string name="error_mitm_resource_server">Unable to create the resource server, please check your connection and port availability.</string>
 
-    <string name="hijacker_load_from_file">Load From File</string>
+    <string name="hijacker_load_from_file">Załaduj z pliku</string>
     <string name="login_user_wordlist">User Wordlist</string>
     <string name="login_pass_wordlist">Password Wordlist</string>
 
-    <string name="menu_new_session">New Session</string>
-    <string name="menu_save_session">Save Session</string>
+    <string name="menu_new_session">Nowa Sesja</string>
+    <string name="menu_save_session">Zapisz Sesję</string>
     <string name="menu_restore_session">Restore Session</string>
     <string name="menu_stop_monitor">Stop Network Monitor</string>
     <string name="menu_submit_issue">Submit Issue</string>
-    <string name="menu_about">About</string>
+    <string name="menu_about">O</string>
 
     <string name="scanner_select_ports">Select Custom Ports</string>
 
-    <string name="wifi_initializing">Initializing &#8230;</string>
+    <string name="wifi_initializing">Inicjalizacja &#8230;</string>
     <string name="wifi_activating_iface">Activating WiFi interface &#8230;</string>
     <string name="wifi_activated">WiFi activated.</string>
-    <string name="wifi_scanning">Scanning &#8230;</string>
+    <string name="wifi_scanning">Skanowanie &#8230;</string>
     <string name="wifi_attempting_to">Attempting connection to</string>
     <string name="wifi_with_key">with key</string>
-    <string name="wifi_connecting_to">Connecting to</string>
+    <string name="wifi_connecting_to">Połączony z</string>
     <string name="wifi_error_keys">Could not generate keys.</string>
-    <string name="wifi_scan_finished">Scanning finished.</string>
+    <string name="wifi_scan_finished">Skanowanie zakończone.</string>
 
     <!-- preferences -->
     <string name="pref_general">General</string>
     <string name="pref_modules">Modules</string>
     <string name="pref_msf">MetaSploitFramework</string>
     <string name="pref_performance">Performance</string>
-    <string name="pref_check_updates">Check for Updates</string>
+    <string name="pref_check_updates">Sprawdź Dostępność Aktualizacji</string>
     <string name="pref_wake_lock">Wake Lock</string>
     <string name="pref_save_path">Save Path</string>
     <string name="pref_debug_error_logging">Debug Error Logging</string>
@@ -373,7 +373,7 @@
     <string name="pref_err_exists">does not exists.</string>
     <string name="pref_err_writable">is not writable.</string>
     <string name="pref_err_sample_time">Sample time must be between 0.4 and 1.0.</string>
-    <string name="pref_err_invalid_number">Invalid number.</string>
+    <string name="pref_err_invalid_number">Nieprawidłowy numer.</string>
     <string name="pref_err_proxy_port">Proxy port must be between 1024 and 65535.</string>
     <string name="pref_err_server_port">Server port must be between 1024 and 65535.</string>
     <string name="pref_err_redirector_port">Server port must be between 1024 and 65535.</string>
@@ -385,8 +385,8 @@
     <string name="sessions">Sessions</string>
     <string name="sessions_desc">Sessions on pwned target.</string>
     
-    <string name="menu_add">Add</string>
-    <string name="menu_scan">Scan</string>
+    <string name="menu_add">Dodaj</string>
+    <string name="menu_scan">Skanuj</string>
     <string name="menu_wifi_scan">WiFi Scan</string>
     <string name="menu_stop_msfrpcd">Stop msfrpcd</string>
     
